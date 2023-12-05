@@ -1,0 +1,11 @@
+.cardContainer {
+    display: grid;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.cardsText {
+    background-color: var(--paleta-primaria-preto);
+    color: var(--cor-branca);
+    text-align: center;
+}

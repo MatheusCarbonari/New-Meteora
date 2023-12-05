@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Bolsa",
+        "Image": "/static/media/CategoriaBolsa.6852d3a3e73e3b319ede.png"
+    },
+    {
+        "category": "Calça",
+        "Image": "/static/media/Categoria calça.4fe708cc1bad586fec82.png"
+    },
+    {
+        "category": "Calçados",
+        "Image": "/static/media/Categoria Calçados.b6168a03a283841f7a7d.png"
+    },
+    {
+        "category": "Camiseta",
+        "Image": "/static/media/Categoria camiseta.96807b8f3b10e2913c58.png"
+    },
+    {
+        "category": "Casacos",
+        "Image": "/static/media/Categoria casacos.871808fb834ec47a7ee1.png"
+    },
+    {
+        "category": "Óculos",
+        "Image": "/static/media/Categoria casacos.871808fb834ec47a7ee1.png"
+    }
+]
